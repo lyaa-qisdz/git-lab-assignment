@@ -1,4 +1,4 @@
 Name: NUR ALYAA QISTINA BINTI MOHD DZULKARNAIN
 Matric: 251594283
 Course: DATA SCIENCE (Ai)
-Hobby: Gaming
+Hobby: Coding
