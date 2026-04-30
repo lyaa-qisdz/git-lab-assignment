@@ -1,2 +1,4 @@
-Name: NUR ALYAA QISTINA BINTI MOHD DZULKARNAIN\nMatric Number: 251594283\nCourse: Data Science (Ai)
-Hobby: Gaming
+Name: NUR ALYAA QISTINA BINTI MOHD DZULKARNAIN
+Matric Number: 251594283
+Course: Data Science (Ai)
+Hobby: Coding
