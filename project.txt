@@ -1,1 +1,1 @@
-Project Name: Student Management System
+Project: Web Dev
